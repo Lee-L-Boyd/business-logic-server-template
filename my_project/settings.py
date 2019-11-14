@@ -25,7 +25,7 @@ SECRET_KEY = 'e@lcj1k54wpc_6-%rtr^1)^)xb4dqabe3h3%a=cgmm_&pj_rqx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [https://git.heroku.com/test-clinc.git]
+ALLOWED_HOSTS = ['https://git.heroku.com/test-clinc.git']
 
 # Application definition
 
