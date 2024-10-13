@@ -23,7 +23,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'e@lcj1k54wpc_6-%rtr^1)^)xb4dqabe3h3%a=cgmm_&pj_rqx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['https://git.heroku.com/test-clinc.git']
 
